@@ -1,0 +1,15 @@
+This template is used to create ec2 instance with s3 bucket
+#install the awscli 
+configure the awscli profile useing below comands
+#aws configure
+then enter the access key and screate key
+then enter the region and profile
+#change your profile name
+
+use below commands 
+
+
+terraform init
+
+terraform apply
+
